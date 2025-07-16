@@ -27,7 +27,7 @@
 - [Sample Predictions](#sample-predictions)
 - [Updating the Model](#updating-the-model)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ---
 
