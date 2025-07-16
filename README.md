@@ -74,7 +74,7 @@ Duality_ai/
 │   ├── train/
 │   ├── val/
 │   ├── test/
-│   └── all_train/
+│   
 │
 ├── predictions/
 │   └── images/
@@ -128,7 +128,7 @@ python realtime_detection.py
 ## Dataset
 
 - **Location:** `data/`
-- **Structure:** Follows YOLO format with `images/` and `labels/` for `train`, `val`, `test`, and `all_train` splits.
+- **Structure:** Follows YOLO format with `images/` and `labels/` for `train`, `val`, `test`
 - **Classes:** See `classes.txt` for class names.
 
 ---
