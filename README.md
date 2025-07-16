@@ -1,11 +1,11 @@
-# Duality AI: Real-Time Safety Detection
+# Real-Time Safety Detection
 
 ![mAP@0.5 Proof](./Screenshot%202025-07-15%20221436.png)
 *Figure: Model achieving mAP@0.5 = 0.983 (see confusion matrix and training results below)*
 
 ---
 
-## Application Demo & Use Case
+## Application Demo & Use Case (click it to see demo video)
 
 [![Watch the demo](https://img.youtube.com/vi/oeHpo3rIKeA/0.jpg)](https://youtu.be/oeHpo3rIKeA?feature=shared)
 
