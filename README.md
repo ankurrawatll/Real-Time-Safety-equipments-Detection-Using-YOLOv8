@@ -214,9 +214,6 @@ Pull requests and suggestions are welcome! Please open an issue for major change
 
 ---
 
-## License
-
-[MIT License](LICENSE) (or specify your license here)
 
 ---
 
