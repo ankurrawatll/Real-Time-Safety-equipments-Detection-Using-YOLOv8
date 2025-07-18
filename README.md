@@ -11,7 +11,7 @@
 
 [Watch on YouTube](https://youtu.be/oeHpo3rIKeA?feature=shared) 
 
-[![Watch the demo](https://www.youtube.com/watch?v=zKmHSGjJm9I&ab_channel=Stark)
+[![Watch the demo](https://i.ytimg.com/vi/zKmHSGjJm9I/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCafAeWvxHIEc3XeDN8gkzxa2FhQ)](https://www.youtube.com/watch?v=zKmHSGjJm9I&ab_channel=Stark)
 
 
 ## Table of Contents
